@@ -6,5 +6,5 @@ This repository creates GitHub Pages at [https://tomjanus.github.io/mya_emission
 
 A snapshot of the map is shown below.
 <p align="center">
-    <a href="https://tomjanus.github.io/mya_emissionns_map/" target="_blank" rel="noopener noreferrer"><img alt="myanmar_emissions-map" width="550" src="https://user-images.githubusercontent.com/8837107/235451973-341c9d89-c21f-4668-ac23-14f350bbd9fb.gif"/></a>
+    <a href="https://tomjanus.github.io/mya_emissionns_map/" target="_blank" rel="noopener noreferrer"><img alt="myanmar_emissions-map" width="550" src="https://github.com/tomjanus/mya_emissions_map/assets/8837107/ad20de67-cf5b-4571-adea-fbeb44798004"/></a>
 </p>
